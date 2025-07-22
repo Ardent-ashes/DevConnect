@@ -26,7 +26,7 @@ A comprehensive communication platform integrating messaging, file sharing, and 
 
 ### Start Server
 ```bash
-python3 server.py
+python3 server2.py
 ```
 
 ### Start Client
