@@ -106,16 +106,15 @@ This is an **educational project** with basic security:
 4. Push to branch (`git push origin feature/name`)
 5. Open Pull Request
 
+## 👨‍💻 Authors
 
-## 👨‍💻 Author
-
-**Papry Rahman**
+### Papry Rahman
 - GitHub: [@Ardent-ashes](https://github.com/Ardent-ashes)
 - Email: papryrahman59@example.com
-**Rubaiya Tarannum Mrittika**
-- GitHub: [@mri17](https://github.com/mri17)
-- Email:....@example.com
 
----
+### Rubaiya Tarannum Mrittika
+- GitHub: [@mri17](https://github.com/mri17)
+- Email: mrittika@example.com
+
 
 ⭐ **Star this project if you found it helpful!** ⭐
