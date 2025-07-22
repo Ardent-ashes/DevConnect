@@ -110,7 +110,7 @@ This is an **educational project** with basic security:
 
 ### Papry Rahman
 - GitHub: [@Ardent-ashes](https://github.com/Ardent-ashes)
-- Email: papryrahman59@example.com
+- Email: papryrahman59@gmail.com
 
 ### Rubaiya Tarannum Mrittika
 - GitHub: [@mri17](https://github.com/mri17)
